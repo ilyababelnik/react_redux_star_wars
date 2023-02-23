@@ -1,0 +1,8 @@
+.link {
+    display: inline-flex;
+    align-items: center;
+    margin-top: 15px;
+    font-weight: var(--font-bold);
+    color: var(--color-yellow);
+    text-decoration: none;
+}
